@@ -16,7 +16,7 @@ int main() {
     p.x = 0.1;
     p.y = 2;
 
-    float length = math.sqrt(p.x * p.x + p.y * p.y);
+    // float length = math.sqrt(p.x * p.x + p.y * p.y);
 }
 
 // functions 
